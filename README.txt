@@ -1,5 +1,5 @@
 Program that solves RISM equations
 
-Will contain codes in Python, MATLAB and C.
+Codes in Python, MATLAB and C.
 
 Working in progress...
